@@ -1,4 +1,4 @@
-package View;
+package victork.View;
 
 import javax.swing.*;
 import javax.swing.plaf.nimbus.NimbusLookAndFeel;
